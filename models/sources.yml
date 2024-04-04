@@ -12,3 +12,9 @@ sources:
 
       - name: reviews
         identifier: raw_reviews
+
+      - name: source
+        identifier: raw_source
+
+
+
